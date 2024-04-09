@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">AI Photo Editting</string>
+
+    <string name="recent_designs">Recent designs</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="we_will_do_a_deep">We will do a deep scan, please grant storage access for the app to function properly.</string>
+    <string name="grant">Grant</string>
+    <string name="text_title_dialog_sort_by_album">Sort album by</string>
+    <string name="deny">Deny</string>
+    <string name="error_occurred">"Error occurred!"</string>
+    <string name="save">SAVE</string>
+    <string name="filter">FILTER</string>
+    <string name="adjust">ADJUST</string>
+    <string name="hard_mix">Hard Mix</string>
+    <string name="color">Color</string>
+    <string name="dodge">Dodge</string>
+    <string name="hue">Hue</string>
+    <string name="burn">Burn</string>
+    <string name="paint">PAINT</string>
+    <string name="size">Size</string>
+    <string name="neon">NEON</string>
+    <string name="magic">MAGIC</string>
+    <string name="add_text">Add Text</string>
+    <string name="overlay">Overlay</string>
+    <string name="ad_attribution">Ad</string>
+    <string name="next">Next</string>
+    <string name="select_images">Select 2-9 photos</string>
+    <string name="text_images">(%1$d)</string>
+    <string name="text_title_activity_album">Albums</string>
+
+    <string-array name="array_sort_value">
+        <item>Name</item>
+        <item>Size</item>
+        <item>Date</item>
+    </string-array>
+
+    <string name="name_album">Name album</string>
+    <string name="text_title_dialog_sort_by_photo">Sort photo by</string>
+    <string name="limit">Limit</string>
+    <string name="please_select_at_lease">Please select at lease</string>
+    <string name="images">images</string>
+    <string name="layout">LAYOUT</string>
+    <string name="border">BORDER</string>
+    <string name="ratio">RATIO</string>
+    <string name="blur">BLUR</string>
+    <string name="gradient">GRADIENT</string>
+    <string name="waring_out_of_memory">Not enough memory. Please remove images or your program will be crashed.!!!</string>
+    <string name="stickers">stickers</string>
+    <string name="text">Text</string>
+    <string name="background">Background</string>
+    <string name="editing">editing</string>
+    <string name="crop">CROP</string>
+    <string name="rotate_left">Rotate left</string>
+    <string name="horizontal">Horizontal</string>
+    <string name="vertical">Vertical</string>
+    <string name="rotate_right">Rotate right</string>
+    <string name="fonts">Fonts</string>
+    <string name="cancel">Cancel</string>
+    <string name="discard_changes">Discard Changes</string>
+    <color name="transparent">#00FFFFFF</color>
+    <string name="save_project">Save Project</string>
+    <string name="share_to">Share to</string>
+    <string name="other">Other</string>
+    <string name="texture">Texture</string>
+    <string name="shadows">Shadows</string>
+    <string name="radius">Size</string>
+    <string name="width">Width</string>
+    <string name="height">Height</string>
+    <string name="rating_dialog_submit">Submit</string>
+    <string name="rating_title_1">Oh, no!</string>
+    <string name="rating_promote">We are working hard for a better user experience. \nWe\'d greatly appreciate if you can rate us.</string>
+    <string name="rating_text_5">The best we can get :)</string>
+    <string name="rating_text_1">Please leave us some feedback.</string>
+    <string name="rating_title_2">We like you too!</string>
+    <string name="rating_text_4">Thanks for your feedback.</string>
+    <string name="feedback">Feed back</string>
+    <string name="rating_dialog_feedback_title">Feedback</string>
+    <string name="pleasewait_download">Downloading file. Please wait...</string>
+    <string name="download_complete">Download complete</string>
+    <string name="mosaic">MOSAIC</string>
+    <string name="colored">COLORED</string>
+    <string name="effect">Effect</string>
+    <string name="draw">Draw</string>
+    <string name="mirror">MIRROR</string>
+    <string name="frame">Frame</string>
+    <string name="wing">WING</string>
+    <string name="drip">DRIP</string>
+    <string name="splash">Splash</string>
+    <string name="art">Art</string>
+    <string name="motion">MOTION</string>
+    <string name="pixlab">PixLab</string>
+    <string name="splash_BG">Splash BG</string>
+    <string name="sketch_bg">Sketch BG</string>
+    <string name="blur_bg">Blur BG</string>
+    <string name="splash_sq">Splash SQ</string>
+    <string name="sketch_sq">Sketch SQ</string>
+    <string name="brightness">Brightness</string>
+    <string name="contrast">Contrast</string>
+    <string name="saturation">Saturation</string>
+    <string name="vignette">vignette</string>
+    <string name="sharpen">Sharpen</string>
+    <string name="whitebalance">whitebalance</string>
+    <string name="exposure">Exposure</string>
+    <string name="gray">Gray</string>
+    <string name="manual">Manual</string>
+    <string name="do_you_want_to_save_the_project">Do you want to save the project?</string>
+    <string name="no">No</string>
+    <string name="eraser">Eraser</string>
+    <string name="please_try_again">Oops, Please try again...</string>
+    <string name="directory">/.PhotoEditorTemp/</string>
+    <string name="txt_not_detect_human">Human detection is failed. Please try again.</string>
+    <string name="style">Style</string>
+    <string name="offset">Offset</string>
+    <string name="threshold">Threshold</string>
+    <string name="cut_outside">Cut Outside</string>
+    <string name="cut_inside">Cut Inside</string>
+    <string name="auto">Auto</string>
+    <string name="extract">Extract</string>
+    <string name="restore">Restore</string>
+    <string name="zoom">Zoom</string>
+    <string name="redoing">Redoing</string>
+    <string name="undoing">Undoing</string>
+    <string name="spiral">Spiral</string>
+    <string name="shape">Shape</string>
+    <string name="count">Count</string>
+    <string name="opacity">Opacity</string>
+    <string name="rotate">Rotate</string>
+    <string name="backw">Back :</string>
+    <string name="frontw">Front :</string>
+    <string name="flip">Flip</string>
+    <string name="oop_something">Oop! Something went wrong</string>
+    <string name="import_img_warning">Please import image!!!</string>
+    <string name="importing_image">Importing image…</string>
+    <string name="import_error">Error while getting image.</string>
+    <string name="gallery">Gallery</string>
+    <string name="tap_to_select">All Albums</string>
+    <string name="draft">Draft</string>
+    <string name="no_project">No project</string>
+    <string name="you_want_to_remove">You want to remove this project from the list</string>
+    <string name="delete">Delete</string>
+    <string name="you_want_to_edit_this_project">You want to edit this project?</string>
+    <string name="ok">Ok</string>
+    <string name="language">Language</string>
+    <string name="setting">Setting</string>
+    <string name="more_apps_from_us">More Apps from us</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="rate_us">Rate us</string>
+    <string name="save_project_finish">Save project finish</string>
+    <string name="fail_to_sharing">Fail to sharing</string>
+    <string name="file_provider">com.mkm.aiphotoedittings.provider</string>
+    <string name="cant_find_this_app">Can\'t find this App, please download and try it again</string>
+    <string name="camera">Camera</string>
+    <string name="collage">Collage</string>
+    <string name="edit">Edit</string>
+    <string name="history">History</string>
+
+    <string name="turn_on">Turn On</string>
+    <string name="no_internet_comment">Please connect to the network for a better experience!</string>
+    <string name="no_internet">No Internet Access</string>
+
+
+    <string name="Native_ID" translatable="false">ca-app-pub-4383367293115185/5910875645</string>
+    <string name="applovin_ba" translatable="false">977978e08f78895f</string>
+    <string name="applovin_native" translatable="false">07832f977d74666d</string>
+    <string name="applovin_int" translatable="false">4d63867b09e13177</string>
+    <string name="interstitial_ad_unit_id" translatable="false">ca-app-pub-4383367293115185/4339553927</string>
+    <string name="facebook_app_id" translatable="false">280637644968453</string>
+    <string name="facebook_client_token" translatable="false">22d92dcf3a6c3017bb2be9acbaaa3ce6</string>
+
+
+</resources>

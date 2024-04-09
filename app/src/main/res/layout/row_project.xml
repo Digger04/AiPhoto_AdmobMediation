@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:id="@+id/layout_project"
+        android:layout_margin="10dp"
+        android:padding="3dp"
+        android:background="@drawable/shape_row_project">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:layout_centerHorizontal="true"
+            android:id="@+id/img_project"/>
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_pencil"
+            android:padding="10dp"
+            android:id="@+id/img_edit"
+            android:layout_alignParentBottom="true"
+            app:tint="@color/black" />
+
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:src="@drawable/ic_trash"
+            android:padding="10dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:id="@+id/img_trash"
+            app:tint="@color/black" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:layout_marginLeft="10dp"
+            android:textSize="13sp"
+            android:textColor="@color/gray"
+            android:fontFamily="@font/inter_regular"
+            android:id="@+id/txt_days"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:layout_marginRight="10dp"
+            android:textSize="13sp"
+            android:layout_alignParentRight="true"
+            android:textColor="@color/gray"
+            android:fontFamily="@font/inter_regular"
+            android:id="@+id/txt_size"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textSize="13sp"
+            android:layout_centerHorizontal="true"
+            android:textColor="@color/gray"
+            android:fontFamily="@font/inter_regular"
+            android:id="@+id/txt_style"/>
+
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.3dp"
+        android:background="#A2989797"
+        android:layout_marginTop="5dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"/>
+
+</LinearLayout>

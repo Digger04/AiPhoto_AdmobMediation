@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>time_to_show_inter</key>
+        <value>10</value>
+    </entry>
+    <entry>
+        <key>count_to_show_inter</key>
+        <value>1</value>
+    </entry>
+    <entry>
+        <key>AOA_bid_high</key>
+        <value>ca-app-pub-4383367293115185/7249462375</value>
+    </entry>
+    <entry>
+        <key>AOA_bid_medium</key>
+        <value>ca-app-pub-4383367293115185/1690810098</value>
+    </entry>
+    <entry>
+        <key>AOA_bid_low</key>
+        <value>ca-app-pub-4383367293115185/2156632389</value>
+    </entry>
+    <entry>
+        <key>AOA_bid_auto</key>
+        <value>ca-app-pub-4383367293115185/2156632389</value>
+    </entry>
+    <entry>
+        <key>mediation_rate</key>
+        <value>50</value>
+    </entry>
+</defaultsMap>
+    <!-- END xml_defaults -->
